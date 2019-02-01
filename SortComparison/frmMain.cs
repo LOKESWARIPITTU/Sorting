@@ -31,6 +31,7 @@ namespace SortComparison
         {
             this.cboAlg1.SelectedIndex = 3;
             this.cboAlg2.SelectedIndex = 12;
+            this.InitializeOutputFolder();
 
 
 
@@ -258,6 +259,11 @@ namespace SortComparison
                 this.txtOutputFolder.Text = folderBrowserDialog1.SelectedPath;
             }
         }
+
+        private string InitializeOutputFolder()
+ {
+    return AppDomain.CurrentDomain.BaseDirectory.ToString() + "\\output";
+ }
       
     }
 }
