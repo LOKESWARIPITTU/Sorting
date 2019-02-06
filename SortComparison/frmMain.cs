@@ -37,6 +37,7 @@ namespace SortComparison
             this.cmdSort.ForeColor = Color.IndianRed;
             this.cmdSort.BackColor = Color.Black;
             this.cmdShuffle.ForeColor = Color.IndianRed;
+            this.cmdShuffle.BackColor=Color.Black;
 
 
 
