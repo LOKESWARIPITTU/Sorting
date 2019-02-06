@@ -33,6 +33,8 @@ namespace SortComparison
             this.cboAlg2.SelectedIndex = 12;
             this.InitializeOutputFolder();
             this.tbSamples.Value=70;
+            this.cmdShuffle.PerformClick();
+            this.cmdSort.ForeColor = Color.IndianRed;
 
 
 
