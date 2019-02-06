@@ -60,7 +60,7 @@ namespace SortComparison
 
         private void DrawSamples()
         {
-            g1.Clear(Color.White);
+            g1.Clear(Color.Khaki);
             g2.Clear(Color.White);
 
             for (int i = 0; i < array1.Count; i++)
