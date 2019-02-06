@@ -36,6 +36,7 @@ namespace SortComparison
             this.cmdShuffle.PerformClick();
             this.cmdSort.ForeColor = Color.IndianRed;
             this.cmdSort.BackColor = Color.Black;
+            this.cmdShuffle.ForeColor = Color.IndianRed;
 
 
 
