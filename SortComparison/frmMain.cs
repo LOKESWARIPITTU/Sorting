@@ -32,7 +32,7 @@ namespace SortComparison
             this.cboAlg1.SelectedIndex = 3;
             this.cboAlg2.SelectedIndex = 12;
             this.InitializeOutputFolder();
-
+            this.tbSamples.Value=70;
 
 
 
