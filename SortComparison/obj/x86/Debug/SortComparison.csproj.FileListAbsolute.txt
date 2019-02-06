@@ -52,3 +52,4 @@ C:\Users\S533487\Documents\44663\Sorting\SortComparison\obj\x86\Debug\SortCompar
 C:\Users\S533487\Documents\44663\Sorting\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
 C:\Users\S533487\Documents\44663\Sorting\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\S533487\Documents\44663\Sorting\SortComparison\obj\x86\Debug\SortComparison.pdb
+C:\Users\s531382\Documents\44663\Sorting\SortComparison\bin\Debug\Gif.Components.pdb

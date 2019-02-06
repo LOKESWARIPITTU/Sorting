@@ -35,6 +35,7 @@ namespace SortComparison
             this.tbSamples.Value=70;
             this.cmdShuffle.PerformClick();
             this.cmdSort.ForeColor = Color.IndianRed;
+            this.cmdSort.BackColor = Color.Black;
 
 
 
