@@ -1,5 +1,5 @@
 # Sorting
-
+<p>
 1. Bucket sort is faster than Quick Sort.
 2. The entry point of the application is namespace SortComparision class Program static void main()
 3. The code file that displays the main form is frmMain.cs
@@ -11,4 +11,4 @@
 11. this.cmdShuffle is the button which we use for shuffling samples.
 12. this.cmdSort is the button we use for sorting the samples.
 13. We have changed the sort button forecolor and backcolor, shuffle button fore color and backcolor and picture box colors.
-
+</p>
